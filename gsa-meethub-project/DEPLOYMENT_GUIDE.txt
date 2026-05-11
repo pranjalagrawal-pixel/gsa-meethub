@@ -1,0 +1,21 @@
+
+DEPLOYMENT GUIDE
+
+Frontend:
+1. Open client folder
+2. Run npm install
+3. Run npm run dev
+4. Deploy on Vercel
+
+Backend:
+1. Open server folder
+2. Run npm install
+3. Run npm start
+4. Deploy on Render or Railway
+
+Features Included:
+- Meeting scheduler
+- Duplicate meeting blocker
+- Host GID display
+- Responsive UI
+- Backend APIs
